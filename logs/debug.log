@@ -1,0 +1,208 @@
+2021-06-20 18:45:12 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:45:12 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:45:12 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:45:15 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 3.314 seconds (JVM running for 3.997)
+2021-06-20 18:45:19 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 18:45:19 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 18:45:49 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:45:49 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:45:49 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:45:49 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.686 seconds (JVM running for 38.357)
+2021-06-20 18:48:27 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:48:27 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:48:27 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:48:27 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.47 seconds (JVM running for 196.419)
+2021-06-20 18:48:29 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:48:29 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:48:29 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:48:30 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.488 seconds (JVM running for 198.933)
+2021-06-20 18:50:39 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:50:39 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:50:39 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:50:40 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.725 seconds (JVM running for 329.063)
+2021-06-20 18:51:57 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:51:57 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:51:57 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:51:57 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.675 seconds (JVM running for 406.367)
+2021-06-20 18:53:22 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:53:22 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:53:22 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:53:22 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.413 seconds (JVM running for 491.443)
+2021-06-20 18:54:44 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:54:44 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:54:44 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:54:45 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.483 seconds (JVM running for 573.637)
+2021-06-20 18:55:06 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:55:06 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:55:06 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:55:06 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.333 seconds (JVM running for 595.344)
+2021-06-20 18:55:10 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 18:55:10 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 18:55:15 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 18:55:15 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 18:55:20 [http-nio-9000-exec-3] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 18:55:20 [http-nio-9000-exec-3] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 18:55:33 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:55:33 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:55:33 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:55:33 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.323 seconds (JVM running for 622.019)
+2021-06-20 18:55:51 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 18:55:51 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 18:55:51 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 18:55:51 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.285 seconds (JVM running for 640.548)
+2021-06-20 18:55:56 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 18:55:56 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 18:56:02 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 18:56:02 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 19:00:08 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:00:08 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:00:08 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:00:08 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.42 seconds (JVM running for 897.322)
+2021-06-20 19:00:48 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:00:48 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:00:48 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:00:49 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.38 seconds (JVM running for 937.736)
+2021-06-20 19:01:18 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:01:18 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:01:18 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:01:18 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.328 seconds (JVM running for 967.117)
+2021-06-20 19:02:02 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:02:02 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:02:02 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:02:02 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.416 seconds (JVM running for 1011.604)
+2021-06-20 19:02:12 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:02:12 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:02:12 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:02:12 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.362 seconds (JVM running for 1021.458)
+2021-06-20 19:02:22 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:02:22 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:02:22 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:02:22 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.364 seconds (JVM running for 1031.131)
+2021-06-20 19:02:36 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:02:36 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:02:36 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:02:37 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.359 seconds (JVM running for 1045.902)
+2021-06-20 19:02:49 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 21240 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:02:49 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:02:49 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:02:49 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 0.299 seconds (JVM running for 1058.616)
+2021-06-20 19:02:56 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 19:02:56 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity from getAllProducts:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 19:03:02 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 19:03:02 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity from getAllProducts:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 19:03:05 [http-nio-9000-exec-3] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 19:03:05 [http-nio-9000-exec-3] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity from getAllProducts:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 19:03:24 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Starting SpringBootMongoRestProjectApplication using Java 1.8.0_151 on BLRL68131 with PID 18920 (C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project\target\classes started by rbhowmick in C:\Users\rbhowmick\rangan_office\My_old_workspace\programing\spring-boot-mongo-rest-project)
+2021-06-20 19:03:24 [restartedMain] DEBUG c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-20 19:03:24 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-20 19:03:27 [restartedMain] INFO  c.S.R.m.r.p.SpringBootMongoRestProjectApplication -
+				Started SpringBootMongoRestProjectApplication in 3.629 seconds (JVM running for 4.298)
+2021-06-20 19:03:28 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 19:03:28 [http-nio-9000-exec-1] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity from getAllProducts:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 19:03:42 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 19:03:42 [http-nio-9000-exec-2] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity from getAllProducts:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
+2021-06-20 19:03:51 [http-nio-9000-exec-3] DEBUG c.S.R.m.r.p.c.ProductsController -
+				-----getAllProducts Request start-----
+2021-06-20 19:03:51 [http-nio-9000-exec-3] DEBUG c.S.R.m.r.p.c.ProductsController -
+				responseEntity from getAllProducts:- <200 OK OK,[Products [productId=P1, productCategory=Commercial, productName=A320, productDescriction=Passenger aircraft family, units=2], Products [productId=P2, productCategory=Commercial, productName=A380, productDescriction=Passenger aircraft family, units=3], Products [productId=P4, productCategory=Helicopter, productName=H135, productDescriction=Intermediate single, units=3], Products [productId=P5, productCategory=Helicopter, productName=H125, productDescriction=Intermediate single, units=3], Products [productId=P3, productCategory=Space, productName=Sentinel, productDescriction=Satellite family, units=1]],[]>
