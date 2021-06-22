@@ -11,7 +11,7 @@ public interface ProductService {
 
 	public List<Products> getAllProducts();
 
-	public Products createProducts(Products product);
+	public Products addNewProducts(Products product);
 
 	public List<Products> getProductsByCatagory(String catagory);
 

@@ -41,6 +41,16 @@ public class Products {
 	public void setProductId(String productId) {
 		this.productId = productId;
 	}
+	
+	/*public Products(String productId, String productCategory, String productName, String productDescriction,
+			int units) {
+		super();
+		this.productId = productId;
+		this.productCategory = productCategory;
+		this.productName = productName;
+		this.productDescriction = productDescriction;
+		this.units = units;
+	}*/
 	public void setProductCategory(String productCategory) {
 		this.productCategory = productCategory;
 	}

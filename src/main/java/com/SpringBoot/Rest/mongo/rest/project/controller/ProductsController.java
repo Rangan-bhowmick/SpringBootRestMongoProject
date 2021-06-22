@@ -6,6 +6,7 @@ import java.util.Optional;
 import javax.websocket.server.PathParam;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.CacheManager;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -27,14 +28,13 @@ import com.SpringBoot.Rest.mongo.rest.project.service.SequenceGeneratorService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import lombok.experimental.Delegate;
 
 @RestController
 @RequestMapping("api/v1")
 @CrossOrigin(origins="*")
 public class ProductsController {
 	
-	private static final Logger logger = LoggerFactory.getLogger(ProductsController.class);;
+	private static final Logger logger = LoggerFactory.getLogger(ProductsController.class);
 	
 	public static final String SUCCSTATUS = "Success";
 	public static final String FAILSTATUS = "Failure";
@@ -53,13 +53,14 @@ public class ProductsController {
 		ResponseEntity<?> responseEntity;
 		logger.debug("-----getAllProducts Request start-----");
 		
+		
 		try{
 			List<Products> result = service.getAllProducts();
 			responseEntity = ResponseEntity.of(Optional.of(result));
 		}catch (Exception e) {
 			// TODO: handle exception
 			logger.error("Error while getAllProducts request: "+e);
-			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, e.getMessage()), HttpStatus.INTERNAL_SERVER_ERROR);
+			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, "INTERNAL_SERVER_ERROR"), HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 		logger.debug("responseEntity from getAllProducts:- "+responseEntity);
 		return responseEntity;
@@ -82,7 +83,7 @@ public class ProductsController {
 		}catch (Exception e) {
 			// TODO: handle exception
 			logger.error("Error in get Catagory request:-- "+e);
-			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, e.getMessage()), HttpStatus.INTERNAL_SERVER_ERROR);
+			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, "INTERNAL_SERVER_ERROR"), HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 		
 		logger.debug("responseEntity from getProductsByCatagory: "+responseEntity);
@@ -93,7 +94,7 @@ public class ProductsController {
 	}
 
 	@PostMapping
-	public ResponseEntity<?> createProduct(@RequestBody Products product) {
+	public ResponseEntity<?> addNewProduct(@RequestBody Products product) {
 
 		Products createdProduct = null;
 		ResponseEntity<?> responseEntity;
@@ -101,12 +102,12 @@ public class ProductsController {
 		try {
 			String seq_num = String.valueOf(sequenceService.getSequenceNumber(Products.SEQUENCE_NAME));
 			product.setProductId("P" + seq_num);
-			createdProduct = service.createProducts(product);
+			createdProduct = service.addNewProducts(product);
 			responseEntity= ResponseEntity.of(Optional.of(createdProduct));
 		} catch (Exception e) {
 			logger.error("Error in createProduct request:-- "+e);
 			
-			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, e.getMessage()), HttpStatus.INTERNAL_SERVER_ERROR);
+			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, "INTERNAL_SERVER_ERROR"), HttpStatus.INTERNAL_SERVER_ERROR);
 
 		}
 		logger.debug("responseEntity from createProduct: "+responseEntity);
@@ -131,7 +132,7 @@ public class ProductsController {
 		} catch (Exception e) {
 			logger.error("Error in updateProduct request:-- "+e);
 
-			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, e.getMessage()), HttpStatus.INTERNAL_SERVER_ERROR);
+			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, "INTERNAL_SERVER_ERROR"), HttpStatus.INTERNAL_SERVER_ERROR);
 
 		}
 		
@@ -158,7 +159,7 @@ public class ProductsController {
 		}catch (Exception e) {
 			// TODO: handle exception
 			logger.error("Error in deteleProduct request:-- "+e);
-			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, e.getMessage()), HttpStatus.INTERNAL_SERVER_ERROR);
+			responseEntity = new ResponseEntity<ApiFailureResponse>(responseHandler.returnFailureResponse(FAILSTATUS, "INTERNAL_SERVER_ERROR"), HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 		
 		logger.debug("responseEntity from deteleProduct: "+responseEntity);
